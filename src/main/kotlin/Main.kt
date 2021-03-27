@@ -17,8 +17,6 @@ fun main() {
     val file = File("./Meal_Plan.md")
     file.createNewFile()
     file.writeText("Meal Plan\n======\n\n")
-
-    val fileReader = FileReader(file)
     for (i in 0..6) {
         var random : Int
         file.appendText("\n**${weekday[i]}** ")
@@ -40,7 +38,7 @@ fun main() {
                 map[meal]!!.add(e)
             }
         }
-        file.appendText("**Missing**\n")
+        file.appendText("Missing\n")
         for (e in map[meal]!!) {
             file.appendText("+ $e \n".toLowerCase())
         }

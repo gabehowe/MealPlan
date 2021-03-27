@@ -2,33 +2,33 @@ Meal Plan
 ======
 
 
-**Sunday** Spaghetti
+**Sunday** Salad
 
-**Missing**
-+ spaghetti 
-+ ground_beef 
-+ sausage 
-+ tomato_sauce 
+Missing
++ lettuce 
++ spinach 
++ carrot 
++ egg 
++ croutons 
 
-**Monday** Chili
+**Monday** BLTs
 
-**Missing**
-+ beans 
-+ ground_beef 
-+ cumin 
-+ powder_chili 
-+ powder_garlic 
+Missing
++ bread 
++ bacon 
++ lettuce 
++ tomato 
 
-**Tuesday** Chicken Quesadillas
+**Tuesday** Chicken Sandwiches
 
-**Missing**
-+ wheat_tortillas 
+Missing
++ bread 
 + rotisserie_chicken 
 + cheddar 
 
 **Wednesday** Soup (Pumpkin or Tomato)
 
-**Missing**
+Missing
 + tomato_sauce 
 + pumpkin_mush 
 + bread 
@@ -36,9 +36,16 @@ Meal Plan
 + oil 
 + butter 
 
-**Thursday** Taco Stuffed Avocados
+**Thursday** Sausage & Potatoes
 
-**Missing**
+Missing
++ sausage 
++ potato 
++ sweet_potato 
+
+**Friday** Taco Stuffed Avocados
+
+Missing
 + ground_beef 
 + powder_chili 
 + cumin 
@@ -47,22 +54,12 @@ Meal Plan
 + spinach 
 + avocado 
 
-**Friday** Tacos
+**Saturday** Macaroni & Cheese
 
-**Missing**
-+ ground_beef 
-+ powder_chili 
-+ cumin 
-+ beans 
-+ lettuce 
-+ spinach 
-+ corn_tortilla 
-
-**Saturday** Salad
-
-**Missing**
-+ lettuce 
-+ spinach 
-+ carrot 
-+ egg 
-+ croutons 
+Missing
++ macaroni 
++ cheddar 
++ bread_crumbs 
++ butter 
++ black_pepper 
++ milk 
