@@ -1,5 +1,2 @@
-#Meal Plan
-
-Monday
---
-**FOOD**
+# MealPlan
+A Kotlin meal plan generator
